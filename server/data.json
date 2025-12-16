@@ -1,0 +1,1799 @@
+{
+  "nodes": [
+    {
+      "id": "bdxy",
+      "label": "保定学院",
+      "type": "school",
+      "timeline": {
+        "start": 1904
+      },
+      "attributes": {
+        "description": "保定学院始建于1904年，前身为保定初级师范学堂，历经百年发展，2007年升格为本科院校，现已成为一所以教师教育为特色的综合性大学。",
+        "imageUrl": "/KGImages/bdxy-campus.jpg",
+        "relatedEvents": [
+          "event-1904",
+          "event-1950",
+          "event-1978",
+          "event-2007",
+          "event-2018",
+          "event-2020",
+          "event-2023"
+        ]
+      },
+      "color": "#2f54eb"
+    },
+    {
+      "id": "event-1904",
+      "label": "创校时期",
+      "type": "event",
+      "timeline": {
+        "start": 1904
+      },
+      "attributes": {
+        "description": "1904年清政府批准成立保定初级师范学堂，开启师范教育先河。",
+        "reference": [
+          "doc-1"
+        ]
+      },
+      "color": "#73d13d"
+    },
+    {
+      "id": "whs",
+      "label": "王鹤寿",
+      "type": "figure",
+      "timeline": {
+        "start": 1909
+      },
+      "attributes": {
+        "description": "著名无产阶级革命家，1923年考入保定第二师范学校。",
+        "imageUrl": "/images/wangheshou.jpg"
+      },
+      "color": "#f5222d"
+    },
+    {
+      "id": "era-1904",
+      "label": "清末民初",
+      "type": "event",
+      "timeline": {
+        "start": 1904,
+        "end": 1911
+      },
+      "attributes": {
+        "description": "清末新政时期，新式教育开始兴起",
+        "reference": [
+          "doc-1"
+        ]
+      },
+      "color": "#73d13d"
+    },
+    {
+      "id": "event-1916",
+      "label": "李苦禅任教",
+      "type": "event",
+      "timeline": {
+        "start": 1916
+      },
+      "attributes": {
+        "description": "李苦禅先生是我国著名花鸟画家、美术教育家，1926—1930年之间曾在我校前身----直隶第二师范学校任美术教员。",
+        "reference": []
+      },
+      "color": "#73d13d"
+    },
+    {
+      "id": "era-1937",
+      "label": "抗战时期",
+      "type": "event",
+      "timeline": {
+        "start": 1937,
+        "end": 1945
+      },
+      "attributes": {
+        "description": "保定学院师生积极投身抗日救亡运动",
+        "reference": [
+          "doc-2"
+        ]
+      },
+      "color": "#73d13d"
+    },
+    {
+      "id": "era-1949",
+      "label": "建国初期",
+      "type": "event",
+      "timeline": {
+        "start": 1949,
+        "end": 1956
+      },
+      "attributes": {
+        "description": "学校进入新的发展阶段，开始培养新中国建设人才",
+        "reference": [
+          "doc-3"
+        ]
+      },
+      "color": "#73d13d"
+    },
+    {
+      "id": "event-1937",
+      "label": "抗日救亡",
+      "type": "event",
+      "timeline": {
+        "start": 1937
+      },
+      "attributes": {
+        "description": "保定学院师生组织抗日宣传队，深入农村和工厂进行抗日宣传...",
+        "reference": [
+          "doc-2"
+        ]
+      },
+      "color": "#73d13d"
+    },
+    {
+      "id": "event-1950",
+      "label": "院系调整",
+      "type": "event",
+      "timeline": {
+        "start": 1950
+      },
+      "attributes": {
+        "description": "全国高校院系调整，保定学院部分专业进行合并与调整...",
+        "reference": [
+          "doc-4"
+        ]
+      },
+      "color": "#73d13d"
+    },
+    {
+      "id": "event-1978",
+      "label": "恢复高考",
+      "type": "event",
+      "timeline": {
+        "start": 1978
+      },
+      "attributes": {
+        "description": "随着国家恢复高考制度，保定学院迎来新的发展机遇...",
+        "reference": [
+          "doc-5"
+        ]
+      },
+      "color": "#73d13d"
+    },
+    {
+      "id": "event-2007",
+      "label": "升格本科",
+      "type": "event",
+      "timeline": {
+        "start": 2007
+      },
+      "attributes": {
+        "description": "经教育部批准，保定学院正式升格为本科院校...",
+        "reference": [
+          "doc-6"
+        ]
+      },
+      "color": "#73d13d"
+    },
+    {
+      "id": "zsy",
+      "label": "张申府",
+      "type": "figure",
+      "timeline": {
+        "start": 1893
+      },
+      "attributes": {
+        "description": "中国现代著名哲学家、教育家，曾任保定学院前身学校教员...",
+        "imageUrl": "/images/zhangshenfu.jpg"
+      },
+      "color": "#f5222d"
+    },
+    {
+      "id": "lsx",
+      "label": "李景春",
+      "type": "figure",
+      "timeline": {
+        "start": 1919
+      },
+      "attributes": {
+        "description": "保定学院知名校友，著名文学家、教育家...",
+        "imageUrl": "/images/lichun.jpg"
+      },
+      "color": "#f5222d"
+    },
+    {
+      "id": "doc-1",
+      "label": "校史资料",
+      "type": "document",
+      "timeline": {
+        "start": 1990
+      },
+      "attributes": {
+        "description": "记录保定学院早期发展历史的校史资料",
+        "reference": []
+      },
+      "color": "#13c2c2"
+    },
+    {
+      "id": "doc-2",
+      "label": "抗战纪实",
+      "type": "document",
+      "timeline": {
+        "start": 2005
+      },
+      "attributes": {
+        "description": "详细记录了保定学院师生在抗日战争中的贡献",
+        "reference": []
+      },
+      "color": "#13c2c2"
+    },
+    {
+      "id": "event-1923",
+      "label": "工人运动",
+      "type": "event",
+      "timeline": {
+        "start": 1923
+      },
+      "attributes": {
+        "description": "保定学院师生积极参与工人运动，支持工人权益...",
+        "reference": [
+          "doc-7"
+        ]
+      },
+      "color": "#73d13d"
+    },
+    {
+      "id": "doc-7",
+      "label": "工人运动纪实",
+      "type": "document",
+      "timeline": {
+        "start": 2010
+      },
+      "attributes": {
+        "description": "记录了保定学院师生在工人运动中的事迹",
+        "reference": []
+      },
+      "color": "#13c2c2"
+    },
+    {
+      "id": "event-2018",
+      "label": "新校区落成",
+      "type": "event",
+      "timeline": {
+        "start": 2018
+      },
+      "attributes": {
+        "description": "保定学院新校区正式落成并投入使用...",
+        "reference": [
+          "doc-8"
+        ]
+      },
+      "color": "#73d13d"
+    },
+    {
+      "id": "doc-8",
+      "label": "新校区纪实",
+      "type": "document",
+      "timeline": {
+        "start": 2018
+      },
+      "attributes": {
+        "description": "记录了保定学院新校区从规划到建设完成的全过程...",
+        "reference": []
+      },
+      "color": "#13c2c2"
+    },
+    {
+      "id": "event-2020",
+      "label": "在线教育",
+      "type": "event",
+      "timeline": {
+        "start": 2020
+      },
+      "attributes": {
+        "description": "面对疫情挑战，保定学院迅速推出在线教育平台...",
+        "reference": [
+          "doc-9"
+        ]
+      },
+      "color": "#73d13d"
+    },
+    {
+      "id": "doc-9",
+      "label": "在线教育报告",
+      "type": "document",
+      "timeline": {
+        "start": 2020
+      },
+      "attributes": {
+        "description": "总结了保定学院在线教育平台的建设过程...",
+        "reference": []
+      },
+      "color": "#13c2c2"
+    },
+    {
+      "id": "yxh",
+      "label": "杨秀峰",
+      "type": "figure",
+      "timeline": {
+        "start": 1926
+      },
+      "attributes": {
+        "description": "保定学院杰出校友，著名农业科学家，中国科学院院士...",
+        "imageUrl": "/images/yangxiufeng.jpg"
+      },
+      "color": "#f5222d"
+    },
+    {
+      "id": "event-1952",
+      "label": "院系调整",
+      "type": "event",
+      "timeline": {
+        "start": 1952
+      },
+      "attributes": {
+        "description": "全国范围内的高校院系进行大规模调整...",
+        "reference": [
+          "doc-10"
+        ]
+      },
+      "color": "#73d13d"
+    },
+    {
+      "id": "doc-10",
+      "label": "院系调整档案",
+      "type": "document",
+      "timeline": {
+        "start": 1952
+      },
+      "attributes": {
+        "description": "记录了全国高校院系调整的政策文件...",
+        "reference": []
+      },
+      "color": "#13c2c2"
+    },
+    {
+      "id": "event-1985",
+      "label": "教育改革",
+      "type": "event",
+      "timeline": {
+        "start": 1985
+      },
+      "attributes": {
+        "description": "保定学院被确立为教育改革试点单位...",
+        "reference": [
+          "doc-11"
+        ]
+      },
+      "color": "#73d13d"
+    },
+    {
+      "id": "doc-11",
+      "label": "改革试点总结",
+      "type": "document",
+      "timeline": {
+        "start": 1985
+      },
+      "attributes": {
+        "description": "总结了保定学院作为教育改革试点单位的改革措施...",
+        "reference": []
+      },
+      "color": "#13c2c2"
+    },
+    {
+      "id": "era-1980",
+      "label": "改革开放",
+      "type": "event",
+      "timeline": {
+        "start": 1980,
+        "end": 2000
+      },
+      "attributes": {
+        "description": "保定学院在改革开放的大潮中，积极拓展对外交流与合作...",
+        "reference": [
+          "doc-12"
+        ]
+      },
+      "color": "#73d13d"
+    },
+    {
+      "id": "doc-12",
+      "label": "改革史",
+      "type": "document",
+      "timeline": {
+        "start": 2000
+      },
+      "attributes": {
+        "description": "记录了保定学院在改革开放时期的发展历程...",
+        "reference": []
+      },
+      "color": "#13c2c2"
+    },
+    {
+      "id": "event-2010",
+      "label": "国际合作",
+      "type": "event",
+      "timeline": {
+        "start": 2010
+      },
+      "attributes": {
+        "description": "保定学院与多所国际知名高校建立合作关系...",
+        "reference": [
+          "doc-13"
+        ]
+      },
+      "color": "#73d13d"
+    },
+    {
+      "id": "doc-13",
+      "label": "合作项目报告",
+      "type": "document",
+      "timeline": {
+        "start": 2010
+      },
+      "attributes": {
+        "description": "详细介绍了保定学院国际合作项目的开展情况...",
+        "reference": []
+      },
+      "color": "#13c2c2"
+    },
+    {
+      "id": "zjf",
+      "label": "张建国",
+      "type": "figure",
+      "timeline": {
+        "start": 1955
+      },
+      "attributes": {
+        "description": "保定学院知名校友，著名经济学家...",
+        "imageUrl": "/images/zhangjianguo.jpg"
+      },
+      "color": "#f5222d"
+    },
+    {
+      "id": "event-2015",
+      "label": "学科评估",
+      "type": "event",
+      "timeline": {
+        "start": 2015
+      },
+      "attributes": {
+        "description": "保定学院在教育部学科评估中取得优异成绩...",
+        "reference": [
+          "doc-14"
+        ]
+      },
+      "color": "#73d13d"
+    },
+    {
+      "id": "doc-14",
+      "label": "评估分析报告",
+      "type": "document",
+      "timeline": {
+        "start": 2015
+      },
+      "attributes": {
+        "description": "对保定学院在教育部学科评估中的表现进行深入分析...",
+        "reference": []
+      },
+      "color": "#13c2c2"
+    },
+    {
+      "id": "event-2023",
+      "label": "百年校庆",
+      "type": "event",
+      "timeline": {
+        "start": 2023
+      },
+      "attributes": {
+        "description": "保定学院隆重举行百年校庆活动...",
+        "reference": [
+          "doc-15"
+        ]
+      },
+      "color": "#73d13d"
+    },
+    {
+      "id": "doc-15",
+      "label": "校庆纪念册",
+      "type": "document",
+      "timeline": {
+        "start": 2023
+      },
+      "attributes": {
+        "description": "记录了保定学院百年校庆的全过程...",
+        "reference": []
+      },
+      "color": "#13c2c2"
+    },
+    {
+      "id": "other-school-1",
+      "label": "河北师大",
+      "type": "cooperation",
+      "timeline": {
+        "start": 1902
+      },
+      "attributes": {
+        "description": "河北省重点建设的骨干大学，与保定学院有着密切的学术交流与合作。",
+        "imageUrl": "/images/hebtu-campus.jpg",
+        "relatedEvents": [
+          "event-1952",
+          "event-1985"
+        ]
+      },
+      "color": "#2f54eb"
+    },
+    {
+      "id": "other-school-2",
+      "label": "燕山大学",
+      "type": "cooperation",
+      "timeline": {
+        "start": 1920
+      },
+      "attributes": {
+        "description": "中国著名高等学府，与保定学院在多个领域开展合作交流。",
+        "imageUrl": "/images/ysu-campus.jpg",
+        "relatedEvents": [
+          "event-1985",
+          "event-2010"
+        ]
+      },
+      "color": "#2f54eb"
+    },
+    {
+      "id": "cooperation-organization-1",
+      "label": "省教育厅",
+      "type": "cooperation",
+      "timeline": {
+        "start": 1949
+      },
+      "attributes": {
+        "description": "主管全省教育事业的政府部门，与保定学院保持着紧密的联系与合作。",
+        "relatedEvents": [
+          "event-1978",
+          "event-2007",
+          "event-2018"
+        ]
+      },
+      "color": "#13c2c2"
+    },
+    {
+      "id": "cooperation-organization-2",
+      "label": "国际交流协会",
+      "type": "cooperation",
+      "timeline": {
+        "start": 1980
+      },
+      "attributes": {
+        "description": "促进中国教育国际合作与交流的专业机构，保定学院与其合作开展了一系列国际交流项目。",
+        "relatedEvents": [
+          "event-2010",
+          "event-2020"
+        ]
+      },
+      "color": "#13c2c2"
+    },
+    {
+      "id": "event-2006",
+      "label": "音乐系迁入",
+      "type": "event",
+      "timeline": {
+        "start": 2006
+      },
+      "attributes": {
+        "description": "2006年5月28日，学校音乐系迁入新校区，结束了分散办学的历史。",
+        "reference": [
+          "doc-16"
+        ]
+      },
+      "color": "#73d13d"
+    },
+    {
+      "id": "doc-16",
+      "label": "音乐系迁入纪实",
+      "type": "document",
+      "timeline": {
+        "start": 2006
+      },
+      "attributes": {
+        "description": "记录了音乐系迁入新校区的过程和意义。",
+        "reference": []
+      },
+      "color": "#13c2c2"
+    },
+    {
+      "id": "event-2015-02",
+      "label": "文明单位",
+      "type": "event",
+      "timeline": {
+        "start": 2015
+      },
+      "attributes": {
+        "description": "2015年2月，被中央精神文明建设指导委员会授予全国文明单位称号。",
+        "reference": [
+          "doc-17"
+        ]
+      },
+      "color": "#73d13d"
+    },
+    {
+      "id": "doc-17",
+      "label": "文明单位纪实",
+      "type": "document",
+      "timeline": {
+        "start": 2015
+      },
+      "attributes": {
+        "description": "记录了保定学院荣获全国文明单位称号的过程和意义。",
+        "reference": []
+      },
+      "color": "#13c2c2"
+    },
+    {
+      "id": "event-2016",
+      "label": "产教融合",
+      "type": "event",
+      "timeline": {
+        "start": 2016
+      },
+      "attributes": {
+        "description": "2016年，被国家发改委、教育部列入“十三五”产教融合发展工程规划项目试点院校。",
+        "reference": [
+          "doc-18"
+        ]
+      },
+      "color": "#73d13d"
+    },
+    {
+      "id": "doc-18",
+      "label": "产教融合纪实",
+      "type": "document",
+      "timeline": {
+        "start": 2016
+      },
+      "attributes": {
+        "description": "记录了保定学院列入“十三五”产教融合发展工程规划项目试点院校的过程和意义。",
+        "reference": []
+      },
+      "color": "#13c2c2"
+    },
+    {
+      "id": "event-2017",
+      "label": "示范基地",
+      "type": "event",
+      "timeline": {
+        "start": 2017
+      },
+      "attributes": {
+        "description": "2017年，成为“高校数字媒体产教融合创新应用示范基地”项目全国首批13所试点院校之一。",
+        "reference": [
+          "doc-19"
+        ]
+      },
+      "color": "#73d13d"
+    },
+    {
+      "id": "doc-19",
+      "label": "示范基地纪实",
+      "type": "document",
+      "timeline": {
+        "start": 2017
+      },
+      "attributes": {
+        "description": "记录了保定学院成为“高校数字媒体产教融合创新应用示范基地”的过程和意义。",
+        "reference": []
+      },
+      "color": "#13c2c2"
+    },
+    {
+      "id": "event-2020-12",
+      "label": "文明校园",
+      "type": "event",
+      "timeline": {
+        "start": 2020
+      },
+      "attributes": {
+        "description": "2020年12月，被中共河北省委、河北省人民政府授予2018—2020年度“河北省文明校园”荣誉称号。",
+        "reference": [
+          "doc-20"
+        ]
+      },
+      "color": "#73d13d"
+    },
+    {
+      "id": "doc-20",
+      "label": "文明校园纪实",
+      "type": "document",
+      "timeline": {
+        "start": 2020
+      },
+      "attributes": {
+        "description": "记录了保定学院荣获河北省文明校园荣誉称号的过程和意义。",
+        "reference": []
+      },
+      "color": "#13c2c2"
+    },
+    {
+      "id": "event-2021",
+      "label": "标准化试点",
+      "type": "event",
+      "timeline": {
+        "start": 2021
+      },
+      "attributes": {
+        "description": "2021年，被国家标准化管理委员会确定为应用型本科教育标准化试点项目院校。",
+        "reference": [
+          "doc-21"
+        ]
+      },
+      "color": "#73d13d"
+    },
+    {
+      "id": "doc-21",
+      "label": "标准化试点纪实",
+      "type": "document",
+      "timeline": {
+        "start": 2021
+      },
+      "attributes": {
+        "description": "记录了保定学院成为应用型本科教育标准化试点项目院校的过程和意义。",
+        "reference": []
+      },
+      "color": "#13c2c2"
+    },
+    {
+      "id": "event-2022-05",
+      "label": "西部支教",
+      "type": "event",
+      "timeline": {
+        "start": 2022
+      },
+      "attributes": {
+        "description": "2022年5月，保定学院西部支教毕业生群体入选中国青年报社推出的“追寻百年团史上的精神路标”。",
+        "reference": [
+          "doc-22"
+        ]
+      },
+      "color": "#73d13d"
+    },
+    {
+      "id": "doc-22",
+      "label": "西部支教纪实",
+      "type": "document",
+      "timeline": {
+        "start": 2022
+      },
+      "attributes": {
+        "description": "记录了保定学院西部支教毕业生群体的感人事迹和入选“追寻百年团史上的精神路标”的过程。",
+        "reference": []
+      },
+      "color": "#13c2c2"
+    },
+    {
+      "id": "event-2023-06",
+      "label": "健康学校",
+      "type": "event",
+      "timeline": {
+        "start": 2023
+      },
+      "attributes": {
+        "description": "2023年6月，保定学院入选“全国健康学校建设单位”。",
+        "reference": [
+          "doc-23"
+        ]
+      },
+      "color": "#73d13d"
+    },
+    {
+      "id": "doc-23",
+      "label": "健康学校纪实",
+      "type": "document",
+      "timeline": {
+        "start": 2023
+      },
+      "attributes": {
+        "description": "记录了保定学院入选“全国健康学校建设单位”的过程和意义。",
+        "reference": []
+      },
+      "color": "#13c2c2"
+    },
+    {
+      "id": "event-2024-01-10",
+      "label": "社科成果奖",
+      "type": "event",
+      "timeline": {
+        "start": 2024
+      },
+      "attributes": {
+        "description": "2024年1月10日，保定学院21项学术成果荣获第十四届保定市社会科学优秀成果奖。",
+        "reference": [
+          "doc-24"
+        ]
+      },
+      "color": "#73d13d"
+    },
+    {
+      "id": "doc-24",
+      "label": "社科成果纪实",
+      "type": "document",
+      "timeline": {
+        "start": 2024
+      },
+      "attributes": {
+        "description": "记录了保定学院21项学术成果荣获第十四届保定市社会科学优秀成果奖的过程和意义。",
+        "reference": []
+      },
+      "color": "#13c2c2"
+    },
+    {
+      "id": "event-2024-01-05",
+      "label": "哲学社科奖",
+      "type": "event",
+      "timeline": {
+        "start": 2024
+      },
+      "attributes": {
+        "description": "2024年1月5日，保定学院15项成果荣获保定市第三届哲学社会科学规划课题优秀成果奖。",
+        "reference": [
+          "doc-25"
+        ]
+      },
+      "color": "#73d13d"
+    },
+    {
+      "id": "doc-25",
+      "label": "哲学社科纪实",
+      "type": "document",
+      "timeline": {
+        "start": 2024
+      },
+      "attributes": {
+        "description": "记录了保定学院15项成果荣获保定市第三届哲学社会科学规划课题优秀成果奖的过程和意义。",
+        "reference": []
+      },
+      "color": "#13c2c2"
+    },
+    {
+      "id": "event-2024-12-18",
+      "label": "支教展览",
+      "type": "event",
+      "timeline": {
+        "start": 2024
+      },
+      "attributes": {
+        "description": "保定学院西部支教毕业生群体事迹展览在校园内举行。",
+        "reference": []
+      },
+      "color": "#73d13d"
+    },
+    {
+      "id": "doc-29",
+      "label": "支教展览纪实",
+      "type": "document",
+      "timeline": {
+        "start": 2024
+      },
+      "attributes": {
+        "description": "记录了保定学院西部支教毕业生群体事迹展览的全过程。",
+        "reference": []
+      },
+      "color": "#13c2c2"
+    },
+    {
+      "id": "yu-xiu",
+      "label": "严修",
+      "type": "figure",
+      "timeline": {
+        "start": 1904
+      },
+      "attributes": {
+        "description": "近代著名教育家，保定学院前身学校创始人，致力于推动新式教育发展。",
+        "imageUrl": "/KGImages/yanxiu.jpg"
+      },
+      "color": "#f5222d"
+    },
+    {
+      "id": "event-2019",
+      "label": "领导就任",
+      "type": "event",
+      "timeline": {
+        "start": 2019
+      },
+      "attributes": {
+        "description": "保定学院现任领导团队就任，推动学校发展。",
+        "reference": []
+      },
+      "color": "#73d13d"
+    },
+    {
+      "id": "li-kushan",
+      "label": "李苦禅",
+      "type": "figure",
+      "timeline": {
+        "start": 1916
+      },
+      "attributes": {
+        "description": "杰出的书画家、美术教育家，对中国美术教育事业做出了重要贡献。李苦禅先生1926—1930年之间曾在保定学院前身——直隶第二师范学校任美术教员。[^3^]",
+        "imageUrl": "/images/likushan.jpg"
+      },
+      "color": "#f5222d"
+    },
+    {
+      "id": "li-bingru",
+      "label": "梁斌",
+      "type": "figure",
+      "timeline": {
+        "start": 1920
+      },
+      "attributes": {
+        "description": "保定学院知名校友，著名作家，创作了多部具有影响力的文学作品。",
+        "imageUrl": "/images/liangbin.jpg"
+      },
+      "color": "#f5222d"
+    },
+    {
+      "id": "shi-changxu",
+      "label": "师昌绪",
+      "type": "figure",
+      "timeline": {
+        "start": 1928
+      },
+      "attributes": {
+        "description": "保定学院知名校友，著名科学家，中国科学院院士，为国家科技事业做出了杰出贡献。",
+        "imageUrl": "/KGImages/shichangxu.jpg"
+      },
+      "color": "#f5222d"
+    },
+    {
+      "id": "guo-xiaolan",
+      "label": "郭晓岚",
+      "type": "figure",
+      "timeline": {
+        "start": 1930
+      },
+      "attributes": {
+        "description": "保定学院知名校友，著名科学家，为中国科学研究和教育事业做出了重要贡献。",
+        "imageUrl": "/images/guoxiaolan.jpg"
+      },
+      "color": "#f5222d"
+    },
+    {
+      "id": "pan-zinian",
+      "label": "潘梓年",
+      "type": "figure",
+      "timeline": {
+        "start": 1932
+      },
+      "attributes": {
+        "description": "保定学院知名校友，著名学者，对中国现代教育和学术研究产生了深远影响。",
+        "imageUrl": "/images/panzinnian.jpg"
+      },
+      "color": "#f5222d"
+    },
+    {
+      "id": "li-yingru",
+      "label": "李英儒",
+      "type": "figure",
+      "timeline": {
+        "start": 1935
+      },
+      "attributes": {
+        "description": "保定学院知名校友，著名作家，创作了多部具有广泛影响力的文学作品。",
+        "imageUrl": "/images/liyingru.jpg"
+      },
+      "color": "#f5222d"
+    },
+    {
+      "id": "hu-lianli",
+      "label": "胡连利",
+      "type": "figure",
+      "timeline": {
+        "start": 2019
+      },
+      "attributes": {
+        "description": "保定学院现任党委书记，教授，博士，博士生导师，享受国务院政府特殊津贴专家。",
+        "imageUrl": "/images/hulianli.jpg"
+      },
+      "color": "#f5222d"
+    },
+    {
+      "id": "han-huiling",
+      "label": "韩会玲",
+      "type": "figure",
+      "timeline": {
+        "start": 2019
+      },
+      "attributes": {
+        "description": "保定学院现任党委副书记、校长，教授，博士，博士生导师。",
+        "imageUrl": "/images/hanhui.jpg"
+      },
+      "color": "#f5222d"
+    },
+    {
+      "id": "liu-qingbo",
+      "label": "刘清波",
+      "type": "figure",
+      "timeline": {
+        "start": 2019
+      },
+      "attributes": {
+        "description": "保定学院现任党委副书记，教授，博士。",
+        "imageUrl": "/images/liuqingbo.jpg"
+      },
+      "color": "#f5222d"
+    },
+    {
+      "id": "zhang-xiaomei",
+      "label": "张晓梅",
+      "type": "figure",
+      "timeline": {
+        "start": 2021
+      },
+      "attributes": {
+        "description": "保定学院现任党委副书记，正高级政工师。",
+        "imageUrl": "/images/zhangxiaomei.jpg"
+      },
+      "color": "#f5222d"
+    },
+    {
+      "id": "zhou-linwei",
+      "label": "周林伟",
+      "type": "figure",
+      "timeline": {
+        "start": 2024
+      },
+      "attributes": {
+        "description": "保定学院现任党委副书记，高级政工师，研究生学历。",
+        "imageUrl": "/images/zhoulinwei.jpg"
+      },
+      "color": "#f5222d"
+    },
+    {
+      "id": "tang-zhijiang",
+      "label": "汤志江",
+      "type": "figure",
+      "timeline": {
+        "start": 2019
+      },
+      "attributes": {
+        "description": "保定学院现任党委常委、纪委书记，教授，管理学博士，硕士生导师。",
+        "imageUrl": "/images/tangzhijiang.jpg"
+      },
+      "color": "#f5222d"
+    },
+    {
+      "id": "ma-lijuan",
+      "label": "马丽娟",
+      "type": "figure",
+      "timeline": {
+        "start": 2019
+      },
+      "attributes": {
+        "description": "保定学院现任党委常委、副校长，教授，享受河北省政府特殊津贴专家。",
+        "imageUrl": "/images/malijuan.jpg"
+      },
+      "color": "#f5222d"
+    },
+    {
+      "id": "sun-bin",
+      "label": "孙斌",
+      "type": "figure",
+      "timeline": {
+        "start": 2019
+      },
+      "attributes": {
+        "description": "保定学院现任党委常委、副校长，副教授。",
+        "imageUrl": "/images/sunbin.jpg"
+      },
+      "color": "#f5222d"
+    },
+    {
+      "id": "zhao-qiguo",
+      "label": "赵其国",
+      "type": "figure",
+      "timeline": {
+        "start": 2019
+      },
+      "attributes": {
+        "description": "保定学院现任党委常委、副校长，正高级政工师，管理学博士，硕士生导师。",
+        "imageUrl": "/images/zhaoqiguo.jpg"
+      },
+      "color": "#f5222d"
+    },
+    {
+      "id": "zhao-xiaoming",
+      "label": "赵晓明",
+      "type": "figure",
+      "timeline": {
+        "start": 2024
+      },
+      "attributes": {
+        "description": "保定学院现任党委常委、副校长，副教授，博士，硕士生导师。",
+        "imageUrl": "/images/zhaoxiaoming.jpg"
+      },
+      "color": "#f5222d"
+    }
+  ],
+  "links": [
+    {
+      "source": "bdxy",
+      "target": "event-1904",
+      "relationType": "timeSequence",
+      "strength": 0.9
+    },
+    {
+      "source": "bdxy",
+      "target": "event-1950",
+      "relationType": "timeSequence",
+      "strength": 0.8
+    },
+    {
+      "source": "bdxy",
+      "target": "event-1978",
+      "relationType": "timeSequence",
+      "strength": 0.8
+    },
+    {
+      "source": "bdxy",
+      "target": "event-2007",
+      "relationType": "timeSequence",
+      "strength": 0.9
+    },
+    {
+      "source": "bdxy",
+      "target": "event-2018",
+      "relationType": "timeSequence",
+      "strength": 0.9
+    },
+    {
+      "source": "bdxy",
+      "target": "event-2020",
+      "relationType": "timeSequence",
+      "strength": 0.9
+    },
+    {
+      "source": "bdxy",
+      "target": "event-2023",
+      "relationType": "timeSequence",
+      "strength": 0.9
+    },
+    {
+      "source": "era-1904",
+      "target": "event-1904",
+      "relationType": "participate",
+      "strength": 0.9
+    },
+    {
+      "source": "era-1937",
+      "target": "event-1937",
+      "relationType": "participate",
+      "strength": 0.9
+    },
+    {
+      "source": "era-1949",
+      "target": "event-1950",
+      "relationType": "participate",
+      "strength": 0.8
+    },
+    {
+      "source": "whs",
+      "target": "event-1937",
+      "relationType": "participate",
+      "strength": 0.8
+    },
+    {
+      "source": "zsy",
+      "target": "event-1904",
+      "relationType": "participate",
+      "strength": 0.7
+    },
+    {
+      "source": "lsx",
+      "target": "event-1978",
+      "relationType": "participate",
+      "strength": 0.7
+    },
+    {
+      "source": "doc-1",
+      "target": "event-1904",
+      "relationType": "reference",
+      "strength": 0.9
+    },
+    {
+      "source": "doc-2",
+      "target": "event-1937",
+      "relationType": "reference",
+      "strength": 0.9
+    },
+    {
+      "source": "bdxy",
+      "target": "event-1923",
+      "relationType": "timeSequence",
+      "strength": 0.8
+    },
+    {
+      "source": "era-1937",
+      "target": "event-1923",
+      "relationType": "participate",
+      "strength": 0.8
+    },
+    {
+      "source": "lsx",
+      "target": "event-1923",
+      "relationType": "participate",
+      "strength": 0.7
+    },
+    {
+      "source": "doc-7",
+      "target": "event-1923",
+      "relationType": "reference",
+      "strength": 0.9
+    },
+    {
+      "source": "bdxy",
+      "target": "event-2018",
+      "relationType": "timeSequence",
+      "strength": 0.9
+    },
+    {
+      "source": "doc-8",
+      "target": "event-2018",
+      "relationType": "reference",
+      "strength": 0.9
+    },
+    {
+      "source": "bdxy",
+      "target": "event-2020",
+      "relationType": "timeSequence",
+      "strength": 0.9
+    },
+    {
+      "source": "doc-9",
+      "target": "event-2020",
+      "relationType": "reference",
+      "strength": 0.9
+    },
+    {
+      "source": "yxh",
+      "target": "event-1952",
+      "relationType": "participate",
+      "strength": 0.8
+    },
+    {
+      "source": "bdxy",
+      "target": "event-1952",
+      "relationType": "timeSequence",
+      "strength": 0.8
+    },
+    {
+      "source": "doc-10",
+      "target": "event-1952",
+      "relationType": "reference",
+      "strength": 0.9
+    },
+    {
+      "source": "bdxy",
+      "target": "event-1985",
+      "relationType": "timeSequence",
+      "strength": 0.8
+    },
+    {
+      "source": "doc-11",
+      "target": "event-1985",
+      "relationType": "reference",
+      "strength": 0.9
+    },
+    {
+      "source": "era-1980",
+      "target": "event-1985",
+      "relationType": "participate",
+      "strength": 0.8
+    },
+    {
+      "source": "bdxy",
+      "target": "event-2010",
+      "relationType": "timeSequence",
+      "strength": 0.8
+    },
+    {
+      "source": "doc-13",
+      "target": "event-2010",
+      "relationType": "reference",
+      "strength": 0.9
+    },
+    {
+      "source": "zjf",
+      "target": "event-2015",
+      "relationType": "participate",
+      "strength": 0.8
+    },
+    {
+      "source": "bdxy",
+      "target": "event-2015",
+      "relationType": "timeSequence",
+      "strength": 0.8
+    },
+    {
+      "source": "doc-14",
+      "target": "event-2015",
+      "relationType": "reference",
+      "strength": 0.9
+    },
+    {
+      "source": "doc-12",
+      "target": "era-1980",
+      "relationType": "reference",
+      "strength": 0.8
+    },
+    {
+      "source": "bdxy",
+      "target": "event-2023",
+      "relationType": "timeSequence",
+      "strength": 0.9
+    },
+    {
+      "source": "doc-15",
+      "target": "event-2023",
+      "relationType": "reference",
+      "strength": 0.9
+    },
+    {
+      "source": "bdxy",
+      "target": "other-school-1",
+      "relationType": "cooperation",
+      "strength": 0.7
+    },
+    {
+      "source": "bdxy",
+      "target": "other-school-2",
+      "relationType": "cooperation",
+      "strength": 0.7
+    },
+    {
+      "source": "bdxy",
+      "target": "cooperation-organization-1",
+      "relationType": "cooperation",
+      "strength": 0.8
+    },
+    {
+      "source": "bdxy",
+      "target": "cooperation-organization-2",
+      "relationType": "cooperation",
+      "strength": 0.8
+    },
+    {
+      "source": "other-school-1",
+      "target": "event-1952",
+      "relationType": "timeSequence",
+      "strength": 0.7
+    },
+    {
+      "source": "other-school-1",
+      "target": "event-1985",
+      "relationType": "timeSequence",
+      "strength": 0.7
+    },
+    {
+      "source": "other-school-2",
+      "target": "event-1985",
+      "relationType": "timeSequence",
+      "strength": 0.7
+    },
+    {
+      "source": "other-school-2",
+      "target": "event-2010",
+      "relationType": "timeSequence",
+      "strength": 0.7
+    },
+    {
+      "source": "cooperation-organization-1",
+      "target": "event-1978",
+      "relationType": "organize",
+      "strength": 0.8
+    },
+    {
+      "source": "cooperation-organization-1",
+      "target": "event-2007",
+      "relationType": "organize",
+      "strength": 0.8
+    },
+    {
+      "source": "cooperation-organization-1",
+      "target": "event-2018",
+      "relationType": "organize",
+      "strength": 0.8
+    },
+    {
+      "source": "cooperation-organization-2",
+      "target": "event-2010",
+      "relationType": "organize",
+      "strength": 0.8
+    },
+    {
+      "source": "cooperation-organization-2",
+      "target": "event-2020",
+      "relationType": "organize",
+      "strength": 0.8
+    },
+    {
+      "source": "bdxy",
+      "target": "event-2006",
+      "relationType": "timeSequence",
+      "strength": 0.8
+    },
+    {
+      "source": "doc-16",
+      "target": "event-2006",
+      "relationType": "reference",
+      "strength": 0.9
+    },
+    {
+      "source": "bdxy",
+      "target": "event-2015-02",
+      "relationType": "timeSequence",
+      "strength": 0.8
+    },
+    {
+      "source": "doc-17",
+      "target": "event-2015-02",
+      "relationType": "reference",
+      "strength": 0.9
+    },
+    {
+      "source": "bdxy",
+      "target": "event-2016",
+      "relationType": "timeSequence",
+      "strength": 0.8
+    },
+    {
+      "source": "doc-18",
+      "target": "event-2016",
+      "relationType": "reference",
+      "strength": 0.9
+    },
+    {
+      "source": "bdxy",
+      "target": "event-2017",
+      "relationType": "timeSequence",
+      "strength": 0.8
+    },
+    {
+      "source": "doc-19",
+      "target": "event-2017",
+      "relationType": "reference",
+      "strength": 0.9
+    },
+    {
+      "source": "bdxy",
+      "target": "event-2020-12",
+      "relationType": "timeSequence",
+      "strength": 0.8
+    },
+    {
+      "source": "doc-20",
+      "target": "event-2020-12",
+      "relationType": "reference",
+      "strength": 0.9
+    },
+    {
+      "source": "bdxy",
+      "target": "event-2021",
+      "relationType": "timeSequence",
+      "strength": 0.8
+    },
+    {
+      "source": "doc-21",
+      "target": "event-2021",
+      "relationType": "reference",
+      "strength": 0.9
+    },
+    {
+      "source": "bdxy",
+      "target": "event-2022-05",
+      "relationType": "timeSequence",
+      "strength": 0.8
+    },
+    {
+      "source": "doc-22",
+      "target": "event-2022-05",
+      "relationType": "reference",
+      "strength": 0.9
+    },
+    {
+      "source": "bdxy",
+      "target": "event-2023-06",
+      "relationType": "timeSequence",
+      "strength": 0.8
+    },
+    {
+      "source": "doc-23",
+      "target": "event-2023-06",
+      "relationType": "reference",
+      "strength": 0.9
+    },
+    {
+      "source": "bdxy",
+      "target": "event-2024-01-10",
+      "relationType": "timeSequence",
+      "strength": 0.8
+    },
+    {
+      "source": "doc-24",
+      "target": "event-2024-01-10",
+      "relationType": "reference",
+      "strength": 0.9
+    },
+    {
+      "source": "bdxy",
+      "target": "event-2024-01-05",
+      "relationType": "timeSequence",
+      "strength": 0.8
+    },
+    {
+      "source": "doc-25",
+      "target": "event-2024-01-05",
+      "relationType": "reference",
+      "strength": 0.9
+    },
+    {
+      "source": "bdxy",
+      "target": "event-2024-12-18",
+      "relationType": "timeSequence",
+      "strength": 0.8
+    },
+    {
+      "source": "doc-29",
+      "target": "event-2024-12-18",
+      "relationType": "reference",
+      "strength": 0.9
+    },
+    {
+      "source": "yu-xiu",
+      "target": "event-1904",
+      "relationType": "participate",
+      "strength": 0.9
+    },
+    {
+      "source": "li-kushan",
+      "target": "event-1916",
+      "relationType": "participate",
+      "strength": 0.8
+    },
+    {
+      "source": "bdxy",
+      "target": "event-2019",
+      "relationType": "timeSequence",
+      "strength": 0.8
+    },
+    {
+      "source": "doc-27",
+      "target": "event-2019",
+      "relationType": "reference",
+      "strength": 0.9
+    },
+    {
+      "source": "yu-xiu",
+      "target": "bdxy",
+      "relationType": "founder",
+      "strength": 1.0
+    },
+    {
+      "source": "li-kushan",
+      "target": "event-1916",
+      "relationType": "participate",
+      "strength": 0.9
+    },
+    {
+      "source": "shi-changxu",
+      "target": "event-1952",
+      "relationType": "participate",
+      "strength": 0.85
+    },
+    {
+      "source": "guo-xiaolan",
+      "target": "event-1985",
+      "relationType": "participate",
+      "strength": 0.8
+    },
+    {
+      "source": "pan-zinian",
+      "target": "event-1923",
+      "relationType": "participate",
+      "strength": 0.8
+    },
+    {
+      "source": "li-yingru",
+      "target": "event-1937",
+      "relationType": "participate",
+      "strength": 0.8
+    },
+    {
+      "source": "hu-lianli",
+      "target": "event-2019",
+      "relationType": "participate",
+      "strength": 0.9
+    },
+    {
+      "source": "han-huiling",
+      "target": "event-2019",
+      "relationType": "participate",
+      "strength": 0.9
+    },
+    {
+      "source": "liu-qingbo",
+      "target": "event-2019",
+      "relationType": "participate",
+      "strength": 0.85
+    },
+    {
+      "source": "zhang-xiaomei",
+      "target": "event-2021",
+      "relationType": "participate",
+      "strength": 0.8
+    },
+    {
+      "source": "zhou-linwei",
+      "target": "event-2024-12-18",
+      "relationType": "participate",
+      "strength": 0.8
+    },
+    {
+      "source": "era-1904",
+      "target": "event-1916",
+      "relationType": "contain",
+      "strength": 0.8
+    },
+    {
+      "source": "era-1937",
+      "target": "event-1937",
+      "relationType": "contain",
+      "strength": 0.9
+    },
+    {
+      "source": "era-1949",
+      "target": "event-1952",
+      "relationType": "contain",
+      "strength": 0.8
+    },
+    {
+      "source": "era-1980",
+      "target": "event-2010",
+      "relationType": "contain",
+      "strength": 0.8
+    },
+    {
+      "source": "cooperation-organization-1",
+      "target": "event-1950",
+      "relationType": "organize",
+      "strength": 0.8
+    },
+    {
+      "source": "cooperation-organization-1",
+      "target": "event-2007",
+      "relationType": "organize",
+      "strength": 0.85
+    },
+    {
+      "source": "cooperation-organization-1",
+      "target": "event-2018",
+      "relationType": "organize",
+      "strength": 0.8
+    },
+    {
+      "source": "cooperation-organization-2",
+      "target": "event-2020",
+      "relationType": "organize",
+      "strength": 0.85
+    },
+    {
+      "source": "other-school-1",
+      "target": "event-2015",
+      "relationType": "cooperation",
+      "strength": 0.7
+    },
+    {
+      "source": "other-school-2",
+      "target": "event-2023",
+      "relationType": "cooperation",
+      "strength": 0.7
+    },
+    {
+      "source": "event-1904",
+      "target": "era-1904",
+      "relationType": "timeSequence",
+      "strength": 0.9
+    },
+    {
+      "source": "event-1978",
+      "target": "era-1980",
+      "relationType": "timeSequence",
+      "strength": 0.85
+    },
+    {
+      "source": "event-2018",
+      "target": "event-2020",
+      "relationType": "timeSequence",
+      "strength": 0.8
+    },
+    {
+      "source": "event-2020",
+      "target": "event-2023",
+      "relationType": "timeSequence",
+      "strength": 0.8
+    },
+    {
+      "source": "yxh",
+      "target": "event-1985",
+      "relationType": "participate",
+      "strength": 0.8
+    },
+    {
+      "source": "zjf",
+      "target": "event-2015",
+      "relationType": "participate",
+      "strength": 0.85
+    },
+    {
+      "source": "li-bingru",
+      "target": "event-1937",
+      "relationType": "participate",
+      "strength": 0.8
+    },
+    {
+      "source": "tang-zhijiang",
+      "target": "event-2019",
+      "relationType": "participate",
+      "strength": 0.85
+    },
+    {
+      "source": "ma-lijuan",
+      "target": "event-2021",
+      "relationType": "participate",
+      "strength": 0.8
+    },
+    {
+      "source": "sun-bin",
+      "target": "event-2020",
+      "relationType": "participate",
+      "strength": 0.8
+    },
+    {
+      "source": "zhao-qiguo",
+      "target": "event-2018",
+      "relationType": "participate",
+      "strength": 0.85
+    },
+    {
+      "source": "zhao-xiaoming",
+      "target": "event-2024-12-18",
+      "relationType": "participate",
+      "strength": 0.8
+    },
+    {
+      "source": "doc-1",
+      "target": "yu-xiu",
+      "relationType": "reference",
+      "strength": 0.8
+    },
+    {
+      "source": "doc-2",
+      "target": "whs",
+      "relationType": "reference",
+      "strength": 0.85
+    },
+    {
+      "source": "doc-7",
+      "target": "pan-zinian",
+      "relationType": "reference",
+      "strength": 0.8
+    },
+    {
+      "source": "doc-10",
+      "target": "yxh",
+      "relationType": "reference",
+      "strength": 0.8
+    },
+    {
+      "source": "doc-14",
+      "target": "zjf",
+      "relationType": "reference",
+      "strength": 0.85
+    }
+  ]
+}
